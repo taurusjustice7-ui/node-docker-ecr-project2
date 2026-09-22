@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  AWS_REGION: ap-south-1b
+  AWS_REGION: ap-south-1
   ECR_REPOSITORY: ecr-project2-repo
 
 jobs:
